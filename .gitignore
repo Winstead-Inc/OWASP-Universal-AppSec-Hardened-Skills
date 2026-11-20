@@ -1,0 +1,10 @@
+target/
+node_modules/
+dist/
+build/
+*.log
+*.tmp
+.DS_Store
+Thumbs.db
+!LAFS.exe
+!tools/LAFS.exe

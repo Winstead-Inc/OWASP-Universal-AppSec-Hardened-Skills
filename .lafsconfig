@@ -1,0 +1,6 @@
+canvas_width = 160
+indent_size = 4
+use_tabs = false
+max_statements = 4
+preserve_empty_lines = true
+max_blank_lines = 1
